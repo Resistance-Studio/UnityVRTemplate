@@ -13,6 +13,7 @@ How to use:
 1- Locate your Unity's templates folders. 
 
 On Mac is something like: `/Applications/Unity/Hub/Editor/<VERSION>/Unity.app/Contents/Resources/PackageManager/ProjectTemplates`
+
 On windows: `\Program Files\Unity\Hub\Editor\<VERSION>\Editor\Resources\PackageManager\ProjectTemplates`
 
 2- Put the tgz archive on there. 
@@ -26,6 +27,8 @@ How to create the tgz via command line:
 ---------------------------------------
 
 Go to the folder where you downloaded this repo and execute this command: 
-```tar czf com.resistancestudio.template.vr-1.0.0.tgz package/```
+```
+tar czf com.resistancestudio.template.vr-1.0.0.tgz package/
+```
 
 Enjoy!
