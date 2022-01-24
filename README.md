@@ -14,7 +14,7 @@ How to use:
 
 On Mac is something like: `/Applications/Unity/Hub/Editor/<VERSION>/Unity.app/Contents/Resources/PackageManager/ProjectTemplates`
 
-On windows: `\Program Files\Unity\Hub\Editor\<VERSION>\Editor\Resources\PackageManager\ProjectTemplates`
+On windows: `\Program Files\Unity\Hub\Editor\<VERSION>\Editor\Data\Resources\PackageManager\ProjectTemplates`
 
 2- Put the tgz archive on there. 
 
